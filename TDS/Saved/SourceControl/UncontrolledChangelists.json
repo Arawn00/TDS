@@ -10,6 +10,8 @@
 				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/IA_Shoot.uasset",
+				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/enemy/bp_enemy.uasset",
 				"C:/Users/anthony.digiovanni/Documents/Unreal Projects/TDS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
