@@ -3091,3 +3091,243 @@ Script Stack (0 frames) :
 [2024.05.06-11.53.21:750][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
 [2024.05.06-11.53.21:756][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
 [2024.05.06-11.53.21:793][360]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.05.06-12.01.56:223][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.06-12.01.56:228][169]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.06-12.01.56:229][169]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.06-12.01.56:229][169]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.06-12.01.56:229][169]LogWorldPartition: Display: GetPartitionedActors took 11 us (total: 653 us)
+[2024.05.06-12.01.56:230][169]LogWorldPartition: Display: GenerateStreaming took 239 us (total: 3 ms)
+[2024.05.06-12.01.56:230][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.06-12.01.56:230][169]PIE: New page: PIE session: TopDownMap (May 6, 2024, 4:01:56 PM)
+[2024.05.06-12.01.56:230][169]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.06-12.01.56:236][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005602s)
+[2024.05.06-12.01.56:236][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.005652s)
+[2024.05.06-12.01.56:236][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-12.01.56:236][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-12.01.56:237][169]LogAIModule: Creating AISystem for world TopDownMap
+[2024.05.06-12.01.56:238][169]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.06-12.01.56:238][169]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.06-12.01.56:238][169]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.06-12.01.56:239][169]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.05.06-12.01.56:239][169]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 182 ms)
+[2024.05.06-12.01.56:239][169]LogPlayLevel: PIE: World Init took: (0.002958s)
+[2024.05.06-12.01.56:261][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.06-12.01.56:262][169]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.06-12.01.56:262][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.06-12.01.56:262][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.06-12.01.56:263][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.06-12.01.56:263][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.06-12.01.56:263][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.06-12.01.56:265][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.06-12.01.56:289][169]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (2- Realtek(R) Audio)
+[2024.05.06-12.01.56:289][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.06-12.01.56:289][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.06-12.01.56:289][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.06-12.01.56:290][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.05.06-12.01.56:290][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.05.06-12.01.56:292][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.05.06-12.01.56:292][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.05.06-12.01.56:292][169]LogInit: FAudioDevice initialized with ID 18.
+[2024.05.06-12.01.56:292][169]LogAudio: Display: Audio Device (ID: 18) registered with world 'TopDownMap'.
+[2024.05.06-12.01.56:292][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.05.06-12.01.56:295][169]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.05.06-12.01.56:297][169]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.05.06-14.01.56
+[2024.05.06-12.01.56:297][169]LogWorld: Bringing up level for play took: 0.001752
+[2024.05.06-12.01.56:299][169]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.05.06-12.01.56:304][169]PIE: Server logged in
+[2024.05.06-12.01.56:305][169]PIE: Play in editor total start time 0.077 seconds.
+[2024.05.06-12.03.02:989][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:989][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:990][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:990][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:991][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:991][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:992][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:992][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:993][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:993][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:994][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:994][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:995][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:995][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:996][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:997][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:997][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:998][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:998][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.02:999][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.03:000][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.03:000][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.03:004][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.03:005][991]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.06:272][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-12.03.06:272][197]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.06-12.03.06:272][197]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-12.03.06:272][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-12.03.06:272][197]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.05.06-12.03.06:275][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.06-12.03.06:281][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-12.03.06:306][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-12.03.06:306][197]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.05.06-12.03.06:306][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.06-12.03.06:308][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.05.06-12.03.06:316][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.05.06-12.03.06:330][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.06:342][197]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.06:362][198]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.05.06-12.03.06:369][198]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.06:380][198]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:792][222]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.06-12.03.55:797][222]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.06-12.03.55:798][222]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.06-12.03.55:798][222]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.06-12.03.55:798][222]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 658 us)
+[2024.05.06-12.03.55:798][222]LogWorldPartition: Display: GenerateStreaming took 128 us (total: 4 ms)
+[2024.05.06-12.03.55:799][222]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.06-12.03.55:799][222]PIE: New page: PIE session: TopDownMap (May 6, 2024, 4:03:55 PM)
+[2024.05.06-12.03.55:799][222]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.06-12.03.55:805][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005665s)
+[2024.05.06-12.03.55:805][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.005701s)
+[2024.05.06-12.03.55:805][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.06-12.03.55:805][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.06-12.03.55:805][222]LogAIModule: Creating AISystem for world TopDownMap
+[2024.05.06-12.03.55:806][222]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.06-12.03.55:806][222]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.06-12.03.55:806][222]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.06-12.03.55:807][222]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.05.06-12.03.55:807][222]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 183 ms)
+[2024.05.06-12.03.55:807][222]LogPlayLevel: PIE: World Init took: (0.002143s)
+[2024.05.06-12.03.55:830][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.05.06-12.03.55:833][222]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.06-12.03.55:833][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.06-12.03.55:833][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.06-12.03.55:834][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.06-12.03.55:834][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.06-12.03.55:834][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.06-12.03.55:836][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.06-12.03.55:859][222]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output (2- Realtek(R) Audio)
+[2024.05.06-12.03.55:859][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.06-12.03.55:859][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.06-12.03.55:859][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.06-12.03.55:860][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.05.06-12.03.55:860][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.05.06-12.03.55:862][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.05.06-12.03.55:862][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.05.06-12.03.55:862][222]LogInit: FAudioDevice initialized with ID 19.
+[2024.05.06-12.03.55:862][222]LogAudio: Display: Audio Device (ID: 19) registered with world 'TopDownMap'.
+[2024.05.06-12.03.55:862][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.06-12.03.55:866][222]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.05.06-12.03.55:867][222]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2024.05.06-14.03.55
+[2024.05.06-12.03.55:868][222]LogWorld: Bringing up level for play took: 0.001765
+[2024.05.06-12.03.55:870][222]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.05.06-12.03.55:874][222]PIE: Server logged in
+[2024.05.06-12.03.55:874][222]PIE: Play in editor total start time 0.077 seconds.
+[2024.05.06-12.03.55:901][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:902][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:902][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:902][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:903][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:903][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:904][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:904][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:904][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:905][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:905][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:905][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:906][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:906][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:906][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:907][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:907][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:907][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:908][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:908][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:909][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:909][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:912][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:913][222]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:925][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:926][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:927][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:927][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:928][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:928][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:928][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:929][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:929][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:930][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:930][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:931][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:931][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:932][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:932][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:933][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:933][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:933][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:934][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:935][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:935][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:936][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:940][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.55:940][223]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.03.57:255][302]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_Cylinder7
+[2024.05.06-12.03.57:704][330]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_Cylinder7
+[2024.05.06-12.03.57:976][347]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_Cylinder7
+[2024.05.06-12.03.58:182][360]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_Cylinder7
+[2024.05.06-12.03.58:500][380]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_Cylinder7
+[2024.05.06-12.03.59:308][431]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_Cube4
+[2024.05.06-12.04.00:037][477]LogBlueprintUserMessages: [BP_TopDownCharacter_C_0] SM_QuarterCylinder7
+[2024.05.06-12.04.04:761][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-12.04.04:761][768]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.06-12.04.04:762][768]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.06-12.04.04:762][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-12.04.04:762][768]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.05.06-12.04.04:765][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.06-12.04.04:769][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.06-12.04.04:791][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.06-12.04.04:792][768]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.05.06-12.04.04:792][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.06-12.04.04:794][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.05.06-12.04.04:801][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.05.06-12.04.04:831][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.04.04:842][768]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.04.04:863][769]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.05.06-12.04.04:917][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.04.04:928][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.06-12.05.10:840][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.06-12.05.10:844][369]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.027
+[2024.05.06-12.05.10:844][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.05.06-12.05.10:867][369]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.05.06-12.05.10:867][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.05.06-12.05.10:885][369]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto7
+[2024.05.06-12.05.10:885][369]LogSavePackage: Moving '../../../../../fork/TDS/TDS/Saved/BP_TopDownCharacter_Auto70B8C7ACA41ACC6AD315658A5C6E5D9EF.tmp' to '../../../../../fork/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto7.uasset'
+[2024.05.06-12.05.10:885][369]LogFileHelpers: Auto-saving content packages took 0.042
+[2024.05.06-12.15.42:879][ 87]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2024.05.06-12.15.43:258][ 87]LogBlueprint: Warning: [AssetLog] D:\fork\TDS\TDS\Content\TopDown\Blueprints\BP_TopDownCharacter.uasset: [Compiler] 'Bp Enemy' does not inherit from 'BP Top Down Character' ( Cast To bp_enemy  would always fail).
+[2024.05.06-12.15.43:274][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.06-12.16.40:038][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.05.06-12.16.40:042][ 16]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2024.05.06-12.16.40:042][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2024.05.06-12.16.40:125][ 16]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_TopDownCharacter.BP_TopDownCharacter]
+[2024.05.06-12.16.40:125][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2024.05.06-12.16.40:139][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto8
+[2024.05.06-12.16.40:139][ 16]LogSavePackage: Moving '../../../../../fork/TDS/TDS/Saved/BP_TopDownCharacter_Auto83330C05F4D9AD809D72153BB895E790F.tmp' to '../../../../../fork/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/BP_TopDownCharacter_Auto8.uasset'
+[2024.05.06-12.16.40:140][ 16]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/enemy/bp_enemy] ([2] browsable assets)...
+[2024.05.06-12.16.40:169][ 16]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/enemy/bp_enemy.bp_enemy]
+[2024.05.06-12.16.40:169][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/enemy/bp_enemy]
+[2024.05.06-12.16.40:169][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/bp_enemy" FILE="../../../../../fork/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/enemy/bp_enemy_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.05.06-12.16.40:173][ 16]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/enemy/bp_enemy_Auto8
+[2024.05.06-12.16.40:173][ 16]LogSavePackage: Moving '../../../../../fork/TDS/TDS/Saved/bp_enemy_Auto8ACFC0CD749F3A2EDDF5847965AEA5652.tmp' to '../../../../../fork/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/enemy/bp_enemy_Auto8.uasset'
+[2024.05.06-12.16.40:173][ 16]LogFileHelpers: Auto-saving content packages took 0.132
