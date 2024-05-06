@@ -6,13 +6,25 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/fork/TDS/TDS/Content/TopDown/Input/IMC_Default.uasset",
-				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/AI_Move.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/IA_Shoot.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/enemy/bp_enemy.uasset",
 				"D:/fork/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AZ/2S6OPRKW83UQ3BUCUUUVZI.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2_Anim.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2_PhysicsAsset.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2_Skeleton.uasset",
+				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/AI_Move.uasset",
 				"C:/Users/anthony.digiovanni/Documents/Unreal Projects/TDS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
