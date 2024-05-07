@@ -24,6 +24,15 @@
 				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2_Anim.uasset",
 				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2_PhysicsAsset.uasset",
 				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol_idle2_Skeleton.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/pistol_idle2_Skeleton.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/pistol_idle2.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/pistol_idle2_Anim.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/pistol_idle2_PhysicsAsset.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/NewBlendSpace.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/BS_idletorun.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/ABP_Pistol.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/Pistol_Run_Backward.uasset",
+				"D:/fork/TDS/TDS/Content/Characters/Mannequins/Animations/Manny/pistol/Pistol_Run_Strafe.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/AI_Move.uasset",
 				"C:/Users/anthony.digiovanni/Documents/Unreal Projects/TDS/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
