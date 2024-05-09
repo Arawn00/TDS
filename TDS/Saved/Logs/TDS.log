@@ -2257,3 +2257,93 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.05.09-10.35.27:653][528]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.09-10.35.27:684][529]LogPlayLevel: Display: Destroying online subsystem :Context_21
 [2024.05.09-10.35.27:771][529]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.09-10.38.42:120][188]LogDerivedDataCache: C:/Users/antho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.704 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 749 files in 1280 folders with total size 71 MiB.
+[2024.05.09-10.42.16:496][837]LogUObjectHash: Compacting FUObjectHashTables data took  10.65ms
+[2024.05.09-10.42.16:610][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.05.09-10.42.18:753][837]LogSlate: Window 'Save Content' being destroyed
+[2024.05.09-10.42.18:841][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.09-10.42.19:127][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.05.09-10.42.19:233][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.05.09-10.42.19:340][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.09-10.42.19:350][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/AI_enemy" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/AI_enemy.uasset" SILENT=true
+[2024.05.09-10.42.19:411][837]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/AI_enemy
+[2024.05.09-10.42.19:414][837]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/AI_enemy4F1B816E4F872BE6F4B3798C106F9251.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/AI_enemy.uasset'
+[2024.05.09-10.42.19:421][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/BB_Enemy" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/BB_Enemy.uasset" SILENT=true
+[2024.05.09-10.42.19:432][837]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/BB_Enemy
+[2024.05.09-10.42.19:436][837]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/BB_Enemy9649E934485D48670C5C59923DB023A3.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/BB_Enemy.uasset'
+[2024.05.09-10.42.19:479][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 637 ms (total: 7.47 sec)
+[2024.05.09-10.42.19:512][837]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.09-10.42.19:512][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/enemy/AI_enemy.AI_enemy
+[2024.05.09-10.42.19:512][837]LogContentValidation: Display: Validating /Script/AIModule.BlackboardData /Game/TopDown/Blueprints/enemy/BB_Enemy.BB_Enemy
+[2024.05.09-10.42.19:628][838]LogAutomationController: Ignoring very large delta of 3.29 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.09-10.42.21:333][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2024.05.09-10.42.21:338][867]LogStall: Shutdown...
+[2024.05.09-10.42.21:372][867]LogStall: Shutdown complete.
+[2024.05.09-10.42.21:745][867]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.21:745][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.22:962][867]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.22:962][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.23:324][867]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.23:324][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.23:380][867]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.23:381][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.23:909][867]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.23:910][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.24:166][867]LogSlate: Window 'AI_enemy' being destroyed
+[2024.05.09-10.42.24:266][867]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.09-10.42.24:267][867]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.24:267][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.24:892][867]LogSlate: Window 'TDS - Unreal Editor' being destroyed
+[2024.05.09-10.42.25:840][868]LogAutomationController: Ignoring very large delta of 4.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.05.09-10.42.25:843][868]Cmd: QUIT_EDITOR
+[2024.05.09-10.42.25:859][868]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.09-10.42.26:068][868]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.09-10.42.26:068][868]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.09-10.42.26:068][868]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.09-10.42.26:133][868]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.26:133][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.09-10.42.26:519][868]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.05.09-10.42.26:914][868]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.05.09-10.42.27:023][868]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.09-10.42.28:419][868]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.09-10.42.28:419][868]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.09-10.42.28:419][868]LogAudio: Display: Audio Device unregistered from world 'TopDownMap'.
+[2024.05.09-10.42.28:437][868]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.05.09-10.42.28:438][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.09-10.42.28:445][868]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.09-10.42.28:477][868]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.09-10.42.28:619][868]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.09-10.42.28:645][868]LogExit: Preparing to exit.
+[2024.05.09-10.42.29:512][868]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2024.05.09-10.42.29:544][868]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:545][868]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:551][868]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:552][868]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:552][868]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:552][868]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:553][868]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:554][868]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.29:554][868]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.09-10.42.31:647][868]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:676][868]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:686][868]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:695][868]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:704][868]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:712][868]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:721][868]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:729][868]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.31:738][868]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.09-10.42.32:203][868]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/GitHub/TDS/TDS/Content/]. Aborting watch request...
+[2024.05.09-10.42.33:672][868]LogExit: Editor shut down
+[2024.05.09-10.42.33:694][868]LogExit: Transaction tracking system shut down
+[2024.05.09-10.42.33:958][868]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
