@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/TDS/TDS/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/11/524JP5N531DG2JPOX3MIKZ.uasset",
+				"D:/GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13.uasset",
+				"D:/GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/AZ/2S6OPRKW83UQ3BUCUUUVZI.uasset",
+				"D:/GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/2L/YKXQHH06PK5PB7PVQZY48Q.uasset",
+				"D:/GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/bp_enemy.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Input/IMC_Default.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"D:/fork/TDS/TDS/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
