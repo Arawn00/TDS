@@ -2330,3 +2330,49 @@ Script Stack (0 frames) :
 [2024.05.13-10.26.44:435][ 26]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2024.05.13-10.26.44:442][ 26]LogSlate: Took 0.000645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.05.13-10.26.44:457][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.28.13:509][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.28.13:695][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Tester" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Tester.uasset" SILENT=true
+[2024.05.13-10.28.13:725][326]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester
+[2024.05.13-10.28.13:725][326]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_Tester2FF9B6AF48E51164DE94D89A1E490031.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Tester.uasset'
+[2024.05.13-10.28.13:729][326]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.
+[2024.05.13-10.28.13:736][326]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.
+[2024.05.13-10.28.13:784][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 7.59 sec)
+[2024.05.13-10.28.13:807][326]AssetCheck: New page: Asset Save: EQS_Tester
+[2024.05.13-10.28.13:807][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester
+[2024.05.13-10.28.17:150][348]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2024.05.13-10.28.17:274][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.05.13-10.28.18:533][348]LogSlate: Window 'Save Content' being destroyed
+[2024.05.13-10.28.18:594][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.28.18:780][348]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I
+[2024.05.13-10.28.18:781][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.28.18:828][348]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13
+[2024.05.13-10.28.18:831][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EZ181JLE8ZN0X0J923MB13DF2564F247FF2ED3602908B902E9F734.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13.uasset'
+[2024.05.13-10.28.18:854][348]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY
+[2024.05.13-10.28.18:857][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/H4CYGWRMJ49ZI6AS2GNGQY1B5359714128856B08C756AD831D149B.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset'
+[2024.05.13-10.28.18:891][348]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I
+[2024.05.13-10.28.18:891][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/3MGE65FUCQQ0KDSK6OOB9I799D9AF041C1B43D95D43F8BF017FE80.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I.uasset'
+[2024.05.13-10.28.18:903][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 7.71 sec)
+[2024.05.13-10.28.18:903][348]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY
+/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I
+[2024.05.13-10.28.18:904][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/TopDownMap" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Maps/TopDownMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.13-10.28.19:025][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.05.13-10.28.19:074][348]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/TopDownMap
+[2024.05.13-10.28.19:077][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/TopDownMapFDCE0FAB4EF3FF6C193947949A621747.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Maps/TopDownMap.umap'
+[2024.05.13-10.28.19:130][348]LogFileHelpers: Saving map 'TopDownMap' took 0.381
+[2024.05.13-10.28.19:146][348]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13
+[2024.05.13-10.28.19:149][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EZ181JLE8ZN0X0J923MB13CCFF5F0845AB39A4FDBDDBB658D18184.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/L2/EZ181JLE8ZN0X0J923MB13.uasset'
+[2024.05.13-10.28.19:168][348]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I
+[2024.05.13-10.28.19:171][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/3MGE65FUCQQ0KDSK6OOB9I3A2A34494FA3DAAE43FDE78FF9A7D1EA.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I.uasset'
+[2024.05.13-10.28.19:189][348]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY
+[2024.05.13-10.28.19:192][348]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/H4CYGWRMJ49ZI6AS2GNGQYB5FAD4C04866DFEBE139B8903C534367.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset'
+[2024.05.13-10.28.19:256][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 662 ms (total: 8.37 sec)
+[2024.05.13-10.28.19:287][348]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.13-10.28.19:287][348]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2024.05.13-10.28.19:287][348]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PlayerStart_0
+[2024.05.13-10.28.19:287][348]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/bp_enemy.bp_enemy_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.bp_enemy_C_UAID_047C160CA7AE55F301_1570122728
+[2024.05.13-10.28.19:287][348]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.EQS_Tester_C_UAID_309C23FF8BC52FF501_1946216151
