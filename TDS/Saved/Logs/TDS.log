@@ -1881,3 +1881,452 @@ Script Stack (0 frames) :
 [2024.05.13-10.00.00:159][440]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561
 [2024.05.13-10.00.00:160][440]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560
 [2024.05.13-10.00.00:160][440]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559
+[2024.05.13-10.03.54:008][160]LogSlate: Window 'AI_PatrolPath' being destroyed
+[2024.05.13-10.03.54:018][160]LogDerivedDataCache: C:/Users/antho/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.657 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 753 files in 1289 folders with total size 71 MiB.
+[2024.05.13-10.03.54:037][160]LogSlate: Window 'AI_PatrolPath' being destroyed
+[2024.05.13-10.03.54:213][160]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.03.54:214][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.03.54:699][160]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.03.54:700][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.03.55:039][160]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.13-10.03.55:040][160]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.03.55:040][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.03.55:172][160]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.03.55:172][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.03.55:272][160]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.13-10.03.55:272][160]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.03.55:272][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.04.32:907][601]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.13-10.04.32:988][601]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.13-10.04.33:028][602]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.13-10.04.34:983][659]LogContentBrowser: Attempting asset rename: NewFolder -> EQS
+[2024.05.13-10.04.35:093][659]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.13-10.04.40:623][776]LogContentBrowser: Deferred new asset file creation: NewEnvQuery
+[2024.05.13-10.04.40:658][776]LogContentBrowser: Creating deferred item: NewEnvQuery
+[2024.05.13-10.04.40:743][778]LogContentBrowser: Renaming the item being created (Deferred Item: NewEnvQuery).
+[2024.05.13-10.04.45:725][939]LogContentBrowser: Attempting asset rename: NewEnvQuery -> EQS_Demo
+[2024.05.13-10.04.45:755][939]LogContentBrowser: End creating deferred item NewEnvQuery
+[2024.05.13-10.04.50:089][978]LogAssetEditorSubsystem: Opening Asset editor for EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.05.45:663][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.05.45:820][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.05.45:835][933]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.05.45:835][933]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoA516E27A4BAAE4583341A29AA9A26232.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.05.45:871][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 3.72 sec)
+[2024.05.13-10.05.45:894][933]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.05.45:895][933]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.05.52:538][ 44]LogEditorClassViewer: Warning: Class /Game/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.BP_CameraShake01_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.13-10.06.00:268][ 44]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.13-10.06.00:313][ 44]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.13-10.06.00:339][ 44]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.13-10.06.00:399][ 45]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.13-10.06.05:093][135]LogContentBrowser: Attempting asset rename: NewBlueprint -> EQS_Tester
+[2024.05.13-10.06.05:123][135]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.
+[2024.05.13-10.06.05:126][135]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.13-10.06.08:880][202]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester_C
+[2024.05.13-10.06.08:881][202]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester_C
+[2024.05.13-10.06.09:041][202]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester as actor: EQS_Tester_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.EQS_Tester_C_0
+[2024.05.13-10.06.09:044][202]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester as actor: EQS_Tester_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.EQS_Tester_C_0
+[2024.05.13-10.06.09:093][202]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.13-10.06.09:176][202]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.06.09:714][209]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester_C
+[2024.05.13-10.06.09:715][209]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester_C
+[2024.05.13-10.06.09:733][209]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester as actor: EQS_Tester_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.EQS_Tester_C_UAID_309C23FF8BC52FF501_1946216151
+[2024.05.13-10.06.09:736][209]LogActorFactory: Actor Factory spawned Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_Tester.EQS_Tester as actor: EQS_Tester_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.EQS_Tester_C_UAID_309C23FF8BC52FF501_1946216151
+[2024.05.13-10.06.09:983][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.06.54:004][997]LogEQS: Warning: Query EQS_Demo_AllMatching is over generation time warning. 0.039120 second (limit is 0.010000 second)
+[2024.05.13-10.09.25:637][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.09.25:817][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.09.25:841][288]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.09.25:844][288]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoEE6B90B44FA03D6E044B01847918F62C.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.09.25:880][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 3.97 sec)
+[2024.05.13-10.09.25:917][288]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.09.25:917][288]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.10.07:164][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.10.07:392][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.10.07:409][725]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.10.07:413][725]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_Demo040238864A0599A51709FCBBBF040A80.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.10.07:450][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 285 ms (total: 4.25 sec)
+[2024.05.13-10.10.07:472][725]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.10.07:472][725]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.10.34:759][993]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2024.05.13-10.10.34:823][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/TopDownMap" FILE="../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.13-10.10.34:941][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Maps/TopDownMap_Auto3
+[2024.05.13-10.10.34:942][993]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/TopDownMap_Auto39D14333D4774BEF0A95BD58D1D1279A5.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto3.umap'
+[2024.05.13-10.10.34:985][993]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/TopDown/Maps/TopDownMap_Auto3.
+[2024.05.13-10.10.35:026][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I_Auto3
+[2024.05.13-10.10.35:026][993]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/3MGE65FUCQQ0KDSK6OOB9I_Auto31D709E4946ED4B51BC35379C0BBD2DD4.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I_Auto3.uasset'
+[2024.05.13-10.10.35:039][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.588
+[2024.05.13-10.10.35:039][993]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.588
+[2024.05.13-10.10.35:042][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/enemy/EQS/EQS_Tester] ([2] browsable assets)...
+[2024.05.13-10.10.35:042][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/enemy/EQS/EQS_Tester]
+[2024.05.13-10.10.35:076][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/enemy/EQS/EQS_Tester_Auto3
+[2024.05.13-10.10.35:076][993]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_Tester_Auto331D2896F4623F49FE526F59F5D046F5B.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/enemy/EQS/EQS_Tester_Auto3.uasset'
+[2024.05.13-10.10.35:082][993]LogFileHelpers: Auto-saving content packages took 0.042
+[2024.05.13-10.10.56:850][194]LogEditorClassViewer: Warning: Class /Game/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.BP_CameraShake01_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.13-10.11.06:455][194]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.13-10.11.06:533][194]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.13-10.11.06:587][194]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.13-10.11.06:642][195]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.13-10.11.17:789][334]LogContentBrowser: Attempting asset rename: NewBlueprint -> EQS_ContextPlayer
+[2024.05.13-10.11.17:813][334]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.
+[2024.05.13-10.11.17:818][334]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.13-10.11.18:640][345]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.EQS_ContextPlayer
+[2024.05.13-10.11.18:641][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.13-10.11.18:641][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.13-10.12.00:960][724]LogEditorClassViewer: Warning: Class /Game/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.BP_CameraShake01_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.13-10.12.52:978][190]BlueprintLog: New page: Compile EQS_ContextPlayer
+[2024.05.13-10.12.53:113][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2024.05.13-10.12.54:029][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.12.54:244][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.uasset" SILENT=true
+[2024.05.13-10.12.54:282][199]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer
+[2024.05.13-10.12.54:282][199]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_ContextPlayer1955A6404C25D218B0965F8B06BE2FEB.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.uasset'
+[2024.05.13-10.12.54:288][199]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.
+[2024.05.13-10.12.54:315][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 286 ms (total: 4.54 sec)
+[2024.05.13-10.12.54:333][199]AssetCheck: New page: Asset Save: EQS_ContextPlayer
+[2024.05.13-10.12.54:333][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.EQS_ContextPlayer
+[2024.05.13-10.12.59:986][236]LogEditorClassViewer: Warning: Class /Game/sA_Megapack_v1/sA_Projectilevfx/Vfx/Blueprints/BP_CameraShake01.BP_CameraShake01_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.05.13-10.13.06:924][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.13.07:172][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.13.07:191][285]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.13.07:195][285]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoF739FAA448FE2892929CCA9BBF4CFE9B.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.13.07:231][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 307 ms (total: 4.85 sec)
+[2024.05.13-10.13.07:256][285]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.13.07:256][285]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.13.49:502][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.13.49:885][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.13.49:902][734]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.13.49:906][734]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_Demo5D041F704619364947EC9EA700013735.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.13.49:946][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 443 ms (total: 5.29 sec)
+[2024.05.13-10.13.49:966][734]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.13.49:966][734]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.14.48:520][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.14.48:777][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.14.48:803][326]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.14.48:809][326]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoD9165B8A4A31464BC669269F06758565.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.14.48:871][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 5.64 sec)
+[2024.05.13-10.14.48:911][326]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.14.48:911][326]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.15.33:541][845]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.13-10.15.37:748][949]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.15.38:974][982]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.15.40:574][ 20]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.15.41:008][ 32]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.15.55:013][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.13-10.16.41:383][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.16.41:596][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.16.41:619][705]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.16.41:622][705]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoC85F698246123804239191AB1AA9D0BF.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.16.41:658][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 5.91 sec)
+[2024.05.13-10.16.41:677][705]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.16.41:677][705]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.17.31:593][125]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.17.31:851][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.17.31:876][125]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.17.31:880][125]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoDBB9A91646288C8DEFFE59BE6E6CDC47.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.17.31:918][125]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 6.24 sec)
+[2024.05.13-10.17.31:950][125]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.17.31:950][125]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.17.33:068][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.17.33:332][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_Demo" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset" SILENT=true
+[2024.05.13-10.17.33:355][136]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo
+[2024.05.13-10.17.33:358][136]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_DemoF17456FC4A9F88F1A17717A7652BA0AB.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_Demo.uasset'
+[2024.05.13-10.17.33:408][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 338 ms (total: 6.58 sec)
+[2024.05.13-10.17.33:439][136]AssetCheck: New page: Asset Save: EQS_Demo
+[2024.05.13-10.17.33:439][136]LogContentValidation: Display: Validating /Script/AIModule.EnvQuery /Game/TopDown/Blueprints/enemy/EQS/EQS_Demo.EQS_Demo
+[2024.05.13-10.18.04:712][489]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/TopDown/Blueprints/enemy/BT_Enemy.BT_Enemy
+[2024.05.13-10.20.17:473][507]LogSlate: Took 0.019923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.13-10.22.11:494][236]BlueprintLog: New page: Compile EQS_ContextPlayer
+[2024.05.13-10.22.11:626][236]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2024.05.13-10.22.19:196][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.22.19:631][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.uasset" SILENT=true
+[2024.05.13-10.22.19:662][266]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer
+[2024.05.13-10.22.19:665][266]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/EQS_ContextPlayer09BDAC23483F3F374B0DAC9C9E543EE3.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.uasset'
+[2024.05.13-10.22.19:712][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 517 ms (total: 7.09 sec)
+[2024.05.13-10.22.19:741][266]AssetCheck: New page: Asset Save: EQS_ContextPlayer
+[2024.05.13-10.22.19:741][266]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/enemy/EQS/EQS_ContextPlayer.EQS_ContextPlayer
+[2024.05.13-10.22.55:876][656]LogUObjectHash: Compacting FUObjectHashTables data took   8.37ms
+[2024.05.13-10.22.55:882][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/TopDownMap" FILE="../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.05.13-10.22.55:937][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Maps/TopDownMap_Auto4
+[2024.05.13-10.22.55:938][656]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/TopDownMap_Auto40765846A43A40357D2421BACFA5F785F.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Maps/TopDownMap_Auto4.umap'
+[2024.05.13-10.22.55:952][656]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/TopDown/Maps/TopDownMap_Auto4.
+[2024.05.13-10.22.55:960][656]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Temp/Autosaves/Game/TopDown/Maps/TopDownMap_Auto4.
+[2024.05.13-10.22.55:979][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY_Auto4
+[2024.05.13-10.22.55:982][656]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/H4CYGWRMJ49ZI6AS2GNGQY_Auto436F8C70A430AB87D600CB0BAFAF75FFF.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY_Auto4.uasset'
+[2024.05.13-10.22.56:006][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I_Auto4
+[2024.05.13-10.22.56:006][656]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/3MGE65FUCQQ0KDSK6OOB9I_Auto4060D911C4725275D74F4738402B7A13B.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/HD/3MGE65FUCQQ0KDSK6OOB9I_Auto4.uasset'
+[2024.05.13-10.22.56:017][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.263
+[2024.05.13-10.22.56:017][656]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.263
+[2024.05.13-10.22.56:018][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/enemy/BT_Enemy] ([1] browsable assets)...
+[2024.05.13-10.22.56:018][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/enemy/BT_Enemy]
+[2024.05.13-10.22.56:018][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/BT_Enemy" FILE="../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/enemy/BT_Enemy_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.05.13-10.22.56:461][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/enemy/BT_Enemy_Auto4
+[2024.05.13-10.22.56:461][656]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/BT_Enemy_Auto4D369893245A725337D5A3F837D5A5D74.tmp' to '../../../../../GitHub/TDS/TDS/Saved/Autosaves/Game/TopDown/Blueprints/enemy/BT_Enemy_Auto4.uasset'
+[2024.05.13-10.22.56:465][656]LogFileHelpers: Auto-saving content packages took 0.448
+[2024.05.13-10.24.03:205][101]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.13-10.24.03:250][101]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.13-10.24.03:259][101]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.13-10.24.03:259][101]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.13-10.24.03:259][101]LogWorldPartition: Display: GetPartitionedActors took 36 us (total: 1 ms)
+[2024.05.13-10.24.03:260][101]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 7 ms)
+[2024.05.13-10.24.03:284][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.13-10.24.03:284][101]PIE: New page: PIE session: TopDownMap (13 mai 2024 à 14:24:03)
+[2024.05.13-10.24.03:284][101]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.13-10.24.03:317][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032334s)
+[2024.05.13-10.24.03:317][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.032467s)
+[2024.05.13-10.24.03:318][101]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.13-10.24.03:318][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.13-10.24.03:320][101]LogAIModule: Creating AISystem for world TopDownMap
+[2024.05.13-10.24.03:322][101]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.13-10.24.03:322][101]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.13-10.24.03:322][101]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.13-10.24.03:328][101]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.05.13-10.24.03:328][101]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 6.88 sec)
+[2024.05.13-10.24.03:328][101]LogPlayLevel: PIE: World Init took: (0.011238s)
+[2024.05.13-10.24.03:433][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.05.13-10.24.03:436][101]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.13-10.24.03:436][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.13-10.24.03:436][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.13-10.24.03:438][101]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.13-10.24.03:438][101]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.13-10.24.03:438][101]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.13-10.24.03:446][101]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.13-10.24.03:562][101]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.13-10.24.03:564][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.13-10.24.03:564][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.13-10.24.03:564][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.13-10.24.03:566][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.13-10.24.03:567][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.13-10.24.03:572][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.13-10.24.03:572][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.13-10.24.03:572][101]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.13-10.24.03:572][101]LogAudio: Display: Audio Device (ID: 6) registered with world 'TopDownMap'.
+[2024.05.13-10.24.03:572][101]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.13-10.24.03:583][101]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.05.13-10.24.03:613][101]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.05.13-12.24.03
+[2024.05.13-10.24.03:615][101]LogWorld: Bringing up level for play took: 0.031440
+[2024.05.13-10.24.03:623][101]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.05.13-10.24.03:637][101]PIE: Server logged in
+[2024.05.13-10.24.03:640][101]PIE: Play in editor total start time 0,39 seconds.
+[2024.05.13-10.24.03:753][101]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.24.03:754][101]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.24.04:218][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.24.04:219][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.24.04:982][104]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.07:712][192]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.10:661][287]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.24.12:914][324]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.24.16:954][398]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.20:303][455]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.20:937][467]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.23:757][513]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.26:779][563]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.24.28:935][600]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.24.32:977][674]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.36:243][737]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.36:860][753]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.39:662][804]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.42:634][867]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.24.44:817][913]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.24.48:972][991]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.52:343][ 52]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.52:993][ 65]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.24.55:789][119]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.24.58:786][175]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.25.00:927][217]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561] Hello
+[2024.05.13-10.25.04:951][301]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560] Hello
+[2024.05.13-10.25.08:249][372]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.25.08:897][386]LogBlueprintUserMessages: [AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559] Hello
+[2024.05.13-10.25.11:367][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.13-10.25.11:367][435]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.13-10.25.11:368][435]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.25.11:369][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.25.11:369][435]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.05.13-10.25.11:416][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.13-10.25.11:429][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.25.11:531][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.13-10.25.11:532][435]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.13-10.25.11:532][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.13-10.25.11:538][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.13-10.25.11:570][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2024.05.13-10.25.11:625][435]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.25.11:645][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.25.11:812][436]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.05.13-10.25.11:827][436]LogSlate: Took 0.011879 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.13-10.25.11:884][436]LogSlate: Took 0.021785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.13-10.25.11:905][436]LogSlate: Took 0.017914 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.13-10.25.11:912][436]LogSlate: Took 0.000735 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.13-10.25.11:924][436]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.25.14:600][461]LogSlate: Took 0.000847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.13-10.25.23:334][559]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-10.25.23:459][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/BT_Enemy" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/BT_Enemy.uasset" SILENT=true
+[2024.05.13-10.25.23:508][559]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/BT_Enemy
+[2024.05.13-10.25.23:511][559]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/BT_Enemy2E1A47A946696B3C7FDE3B8507F020EF.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/BT_Enemy.uasset'
+[2024.05.13-10.25.23:554][559]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 7.31 sec)
+[2024.05.13-10.25.23:571][559]AssetCheck: New page: Asset Save: BT_Enemy
+[2024.05.13-10.25.23:571][559]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/TopDown/Blueprints/enemy/BT_Enemy.BT_Enemy
+[2024.05.13-10.25.26:419][597]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.13-10.25.26:453][597]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.13-10.25.26:461][597]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.13-10.25.26:461][597]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.13-10.25.26:461][597]LogWorldPartition: Display: GetPartitionedActors took 31 us (total: 1 ms)
+[2024.05.13-10.25.26:461][597]LogWorldPartition: Display: GenerateStreaming took 618 us (total: 7 ms)
+[2024.05.13-10.25.26:478][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.13-10.25.26:478][597]PIE: New page: PIE session: TopDownMap (13 mai 2024 à 14:25:26)
+[2024.05.13-10.25.26:478][597]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.13-10.25.26:530][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051905s)
+[2024.05.13-10.25.26:531][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.051997s)
+[2024.05.13-10.25.26:531][597]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.13-10.25.26:531][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.13-10.25.26:532][597]LogAIModule: Creating AISystem for world TopDownMap
+[2024.05.13-10.25.26:534][597]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.13-10.25.26:534][597]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.13-10.25.26:534][597]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.13-10.25.26:540][597]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.05.13-10.25.26:540][597]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 6.88 sec)
+[2024.05.13-10.25.26:540][597]LogPlayLevel: PIE: World Init took: (0.009477s)
+[2024.05.13-10.25.26:640][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2024.05.13-10.25.26:647][597]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.13-10.25.26:647][597]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.13-10.25.26:647][597]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.13-10.25.26:648][597]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.13-10.25.26:648][597]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.13-10.25.26:648][597]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.13-10.25.26:655][597]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.13-10.25.26:764][597]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.13-10.25.26:764][597]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.13-10.25.26:765][597]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.13-10.25.26:765][597]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.13-10.25.26:768][597]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.13-10.25.26:768][597]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.13-10.25.26:773][597]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.13-10.25.26:774][597]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.13-10.25.26:774][597]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.13-10.25.26:774][597]LogAudio: Display: Audio Device (ID: 7) registered with world 'TopDownMap'.
+[2024.05.13-10.25.26:774][597]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.13-10.25.26:785][597]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.05.13-10.25.26:812][597]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.05.13-12.25.26
+[2024.05.13-10.25.26:814][597]LogWorld: Bringing up level for play took: 0.029350
+[2024.05.13-10.25.26:822][597]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.05.13-10.25.26:832][597]PIE: Server logged in
+[2024.05.13-10.25.26:835][597]PIE: Play in editor total start time 0,382 seconds.
+[2024.05.13-10.25.26:898][597]LogEQS: Warning: FinishDelegate for EQS query EQS_Demo_SingleResult took 0.051332 seconds and is over handling time limit warning of 0.025000. Delegate info: object = BTTask_RunEQSQuery_0 method = None
+[2024.05.13-10.25.26:940][597]LogSlate: Took 0.022859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.13-10.25.26:952][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.25.26:953][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.25.27:223][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.25.27:224][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.11:698][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.13-10.26.11:698][382]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.13-10.26.11:699][382]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.26.11:700][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.26.11:701][382]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.05.13-10.26.11:781][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.13-10.26.11:795][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.26.11:897][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.13-10.26.11:897][382]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.13-10.26.11:897][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.13-10.26.11:904][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.13-10.26.11:938][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2024.05.13-10.26.12:019][382]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.12:029][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.26.12:184][383]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.05.13-10.26.12:189][383]LogSlate: Took 0.000785 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.13-10.26.12:226][383]LogSlate: Took 0.000841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.13-10.26.12:230][383]LogSlate: Took 0.000665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.13-10.26.12:238][383]LogSlate: Took 0.000727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.13-10.26.12:251][383]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.24:043][582]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.13-10.26.24:077][582]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.05.13-10.26.24:084][582]LogWorldPartition: Display: GenerateStreaming started...
+[2024.05.13-10.26.24:084][582]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.05.13-10.26.24:084][582]LogWorldPartition: Display: GetPartitionedActors took 25 us (total: 1 ms)
+[2024.05.13-10.26.24:084][582]LogWorldPartition: Display: GenerateStreaming took 617 us (total: 8 ms)
+[2024.05.13-10.26.24:101][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.13-10.26.24:101][582]PIE: New page: PIE session: TopDownMap (13 mai 2024 à 14:26:24)
+[2024.05.13-10.26.24:101][582]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.13-10.26.24:125][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023858s)
+[2024.05.13-10.26.24:125][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.023954s)
+[2024.05.13-10.26.24:126][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.13-10.26.24:126][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.13-10.26.24:127][582]LogAIModule: Creating AISystem for world TopDownMap
+[2024.05.13-10.26.24:128][582]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.05.13-10.26.24:128][582]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.05.13-10.26.24:128][582]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.05.13-10.26.24:134][582]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2024.05.13-10.26.24:135][582]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 6.89 sec)
+[2024.05.13-10.26.24:135][582]LogPlayLevel: PIE: World Init took: (0.009357s)
+[2024.05.13-10.26.24:230][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2024.05.13-10.26.24:236][582]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.13-10.26.24:236][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.13-10.26.24:237][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.13-10.26.24:238][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.13-10.26.24:238][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.13-10.26.24:238][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.13-10.26.24:245][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.13-10.26.24:351][582]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (HyperX Virtual Surround Sound)
+[2024.05.13-10.26.24:351][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.13-10.26.24:352][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.13-10.26.24:352][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.13-10.26.24:353][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.13-10.26.24:354][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.13-10.26.24:359][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.13-10.26.24:359][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.13-10.26.24:359][582]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.13-10.26.24:360][582]LogAudio: Display: Audio Device (ID: 8) registered with world 'TopDownMap'.
+[2024.05.13-10.26.24:360][582]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.13-10.26.24:369][582]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2024.05.13-10.26.24:394][582]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2024.05.13-12.26.24
+[2024.05.13-10.26.24:396][582]LogWorld: Bringing up level for play took: 0.026522
+[2024.05.13-10.26.24:402][582]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.05.13-10.26.24:413][582]PIE: Server logged in
+[2024.05.13-10.26.24:416][582]PIE: Play in editor total start time 0,34 seconds.
+[2024.05.13-10.26.24:447][582]LogSlate: Took 0.000688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.05.13-10.26.24:459][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.24:461][582]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.24:737][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.24:738][583]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.28:073][687]LogEQS: Warning: Query EQS_Demo_SingleResult (Owner: bp_enemy_C_UAID_047C160CA7AE55F301_1570122728) has taken 25.51 ms so far, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 25.51 ms
+  generator[0]: 0.35 ms (items:108) (EnvQueryGenerator_SimpleGrid_0)
+[2024.05.13-10.26.28:100][688]LogEQS: Warning: Query EQS_Demo_SingleResult (Owner: bp_enemy_C_UAID_047C160CA7AE55F301_1570122728) has finished in 26.51 ms, exceeding the configured limit of 25.00 ms. Execution details: Total Execution Time: 26.51 ms
+  generator[0]: 0.35 ms (items:108) (EnvQueryGenerator_SimpleGrid_0)
+    test[0]: 26.10 ms (items:108) (EnvQueryTest_Trace_0)
+    test[1]: 0.03 ms (items:13) (EnvQueryTest_Distance_0)
+[2024.05.13-10.26.43:997][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.13-10.26.43:997][ 25]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2024.05.13-10.26.43:998][ 25]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.13-10.26.43:999][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.26.43:999][ 25]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2024.05.13-10.26.44:030][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.13-10.26.44:043][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.26.44:143][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.13-10.26.44:143][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.13-10.26.44:143][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.13-10.26.44:148][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.13-10.26.44:169][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.13-10.26.44:178][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2024.05.13-10.26.44:236][ 25]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.13-10.26.44:245][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.13-10.26.44:390][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.05.13-10.26.44:394][ 26]LogSlate: Took 0.000683 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.05.13-10.26.44:432][ 26]LogSlate: Took 0.000676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.05.13-10.26.44:435][ 26]LogSlate: Took 0.000663 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.05.13-10.26.44:442][ 26]LogSlate: Took 0.000645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.13-10.26.44:457][ 26]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
