@@ -1864,3 +1864,20 @@ Script Stack (0 frames) :
 [2024.05.13-09.59.26:404][196]LogUObjectHash: Compacting FUObjectHashTables data took   8.20ms
 [2024.05.13-09.59.27:202][200]BlueprintLog: New page: Compile AI_PatrolPath
 [2024.05.13-09.59.27:517][200]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2024.05.13-09.59.59:594][440]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2024.05.13-09.59.59:614][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.13-09.59.59:772][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/PJ/LR701HVT48INMPNX5MMZRZ
+[2024.05.13-09.59.59:776][440]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/LR701HVT48INMPNX5MMZRZ5AC2A4B54EE6B00B99CC8BAFADD19D80.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/PJ/LR701HVT48INMPNX5MMZRZ.uasset'
+[2024.05.13-09.59.59:802][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/PJ/NWX5R1HEWE5NYRDFR8O6RZ
+[2024.05.13-09.59.59:806][440]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/NWX5R1HEWE5NYRDFR8O6RZEEADBF6345CFA649F71A60A2510C1DD9.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/PJ/NWX5R1HEWE5NYRDFR8O6RZ.uasset'
+[2024.05.13-09.59.59:830][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/CH/W8AXGMX7IFEJ16JBZ1WLDI
+[2024.05.13-09.59.59:833][440]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/W8AXGMX7IFEJ16JBZ1WLDIA85937054D51AD1AA5E379AF3453C520.tmp' to '../../../../../GitHub/TDS/TDS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/CH/W8AXGMX7IFEJ16JBZ1WLDI.uasset'
+[2024.05.13-09.59.59:938][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/enemy/AI_PatrolPath" FILE="../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/AI_PatrolPath.uasset" SILENT=true
+[2024.05.13-10.00.00:036][440]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/enemy/AI_PatrolPath
+[2024.05.13-10.00.00:039][440]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/AI_PatrolPath8F084CB343620A93B297DD8090716B20.tmp' to '../../../../../GitHub/TDS/TDS/Content/TopDown/Blueprints/enemy/AI_PatrolPath.uasset'
+[2024.05.13-10.00.00:122][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 507 ms (total: 3.52 sec)
+[2024.05.13-10.00.00:159][440]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.13-10.00.00:159][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath
+[2024.05.13-10.00.00:159][440]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1279228561
+[2024.05.13-10.00.00:160][440]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1271778560
+[2024.05.13-10.00.00:160][440]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/enemy/AI_PatrolPath.AI_PatrolPath_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.AI_PatrolPath_C_UAID_309C23FF8BC53DF401_1264643559
