@@ -4124,3 +4124,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.06.14-11.49.26:328][254]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_IG.W_IG
 [2024.06.14-11.49.26:333][254]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_HP.W_HP
 [2024.06.14-11.49.26:367][255]LogAutomationController: Ignoring very large delta of 2.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.06.14-11.53.11:963][756]BlueprintLog: New page: Compile W_HP
+[2024.06.14-11.53.12:206][756]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2024.06.14-11.53.15:784][782]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2024.06.14-11.53.15:795][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.14-11.53.15:942][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/W_HP" FILE="../../../../../GitHub/TDS/TDS/Content/UI/W_HP.uasset" SILENT=true
+[2024.06.14-11.53.16:050][782]LogSavePackage: Moving output files for package: /Game/UI/W_HP
+[2024.06.14-11.53.16:053][782]LogSavePackage: Moving '../../../../../GitHub/TDS/TDS/Saved/W_HP0AB1FC234D0569DC84C2DC804101D4B2.tmp' to '../../../../../GitHub/TDS/TDS/Content/UI/W_HP.uasset'
+[2024.06.14-11.53.16:093][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 296 ms (total: 4.74 sec)
+[2024.06.14-11.53.16:112][782]AssetCheck: New page: Asset Save: W_HP
+[2024.06.14-11.53.16:112][782]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/W_HP.W_HP
